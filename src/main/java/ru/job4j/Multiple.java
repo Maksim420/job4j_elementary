@@ -1,7 +1,7 @@
 package ru.job4j;
 
 public class Multiple {
-    public static void main(String[] argh){
+    public static void main(String[] argh) {
         System.out.println("1 * 2 = 2");
         System.out.println("1 * 3 = 3");
         System.out.println("1 * 4 = 4");
