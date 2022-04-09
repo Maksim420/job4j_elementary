@@ -10,6 +10,16 @@ public class ArrayDefinition {
         System.out.println(surnames.length);
         System.out.println(prices.length);
 
+        String[] names = new String[4];
+        names[0] = "Max";
+        names[1] = "Yan";
+        names[2] = "John";
+        names[3] = "Bill";
+
+        System.out.println(names[0]);
+        System.out.println(names[1]);
+        System.out.println(names[2]);
+        System.out.println(names[3]);
     }
 
 }
